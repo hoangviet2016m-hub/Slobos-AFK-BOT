@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DracoVNSMP.aternos.me",
+    "ip": "DracoVNSMP.aternos.me:22002",
     "port": 22002,
     "version": "26.1.2"
   },
